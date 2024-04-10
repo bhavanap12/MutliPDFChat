@@ -25,3 +25,15 @@ To run the app
 ```bash
 streamlit run app.py
 ```
+
+
+
+
+## Technologies and Languages Used
+
+* Python
+* Streamlit
+* Langchain
+* PyPDF
+* HuggingFace
+* Faiss
