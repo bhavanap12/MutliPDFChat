@@ -1,0 +1,8 @@
+streamlit == 1.32.2
+python-dotenv == 1.0.1
+PyPDF2 == 3.0.2
+langchain = 0.1.14
+huggingface-hub == 0.22.2
+InstructorEmbedding == 1.0.1
+sentence-transformers == 2.2.2
+faiss-cpu == 1.8.0
